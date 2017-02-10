@@ -1,0 +1,21 @@
+{
+  "name": "resolutionreact",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "6.18.0",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.4.1",
+    "react-addons-css-transition-group": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-form": "^0.11.0",
+    "react-mounter": "^1.2.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Asabeneh",
+  "license": "MIT",
+  "description": ""
+}
